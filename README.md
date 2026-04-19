@@ -1,4 +1,6 @@
-# Ethan Cerqua - GIS Specialist
+# Ethan Cerqua
+**GIS Specialist | Environmental Analyst | Developer**
+
 Ethan Cerqua is a passionate GIS professional with a wide breadth of technical knowledge. He specializes is in environmental and natural resources analysis. 
 
 Ethan uses Python to automate tasks and perform bespoke GIS analysis to fit project specific needs. He is familiar with Geopandas, Arcpy, ArcGIS API for Python and many other libraries that allow him to form custom solutions that streamline workflows or generate unique analysis. 
@@ -14,3 +16,18 @@ This repository is intended to showcase projects and work by Ethan Cerqua and is
 Thank you!
 
 Ethan
+
+## 🗺️ Featured Projects
+
+| Project | Description | View |
+| :--- | :--- | :--- |
+| **Adirondack Forest Loss** | Analysis of forest cover change using GEE and Python. | [Explore Project](./projects/adirondack-forest-loss/) |
+| **Stormwater Data Migration** | Streamlining municipal inspections with SQL Server & PostGIS. | [Read Case Study](./projects/stormwater-migration/) |
+| **Custom GIS Tools** | ArcGIS Experience Builder widgets and Python automation. | [See Code](./projects/custom-tools/) |
+
+---
+
+## 🛠️ Technical Toolkit
+* **Languages:** Python, SQL, Arcade, Javascript, html, css
+* **Database:** PostgreSQL/PostGIS, MS SQL Server, Enterprise GDB
+* **Software:** ArcGIS Pro/Enterprise, QGIS, Global Mapper
