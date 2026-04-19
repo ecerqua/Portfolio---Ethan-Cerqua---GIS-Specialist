@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Ethan Cerqua
 **GIS Specialist | Environmental Analyst | Developer**
 
